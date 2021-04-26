@@ -6,7 +6,7 @@ MITxPro Week 7 project
   Description:
 </h1>
 
-This is a simple program which utilizes HTML, CSS and Javascript to create multiple Pacmen on command which upon creation move around the screen and bounce off the edges.  
+This is a simple program which utilizes HTML and Javascript to create multiple Pacmen on command which upon creation move around the screen and bounce off the edges.  
 
 <h1>
   How to Run
