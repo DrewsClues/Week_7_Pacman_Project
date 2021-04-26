@@ -1,9 +1,5 @@
 # Week_7_Pacman_Project
 
-<h1>
-  Pac Man Project
-</h1>
-
 MITxPro Week 7 project
 
 <h1>
